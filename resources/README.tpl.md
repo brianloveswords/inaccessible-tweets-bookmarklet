@@ -25,7 +25,7 @@ there are great bots like [@AltTextReminder](https://twitter.com/AltTxtReminder)
 
 ## how?
 
-twitter's DOM is div 🍲 with classes like `c-a209l` and `r-av3d1`, but fortunately there are a few things can hang our hats on a few things:
+twitter's DOM is div 🍲 with classes like `c-a209l` and `r-av3d1`, but fortunately there are a few things we can hang our hats on:
 
 - `div[data-testid=tweetPhoto]`: tweets with photos will have this `data` attribute.
 - `img[alt=Image]`: images without provided alt [get the default of "Image"](https://twitter.com/thingskatedid/status/1360331792067166208)
