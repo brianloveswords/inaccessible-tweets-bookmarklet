@@ -40,7 +40,7 @@ twitter is a single page app, so navigating between "notifications" and "home" a
 ## but this only works for twitter web
 
 
-yeah, that's the version I use everywhere. honestly I recommend it; for some reason I don't get any promoted tweets and it's the last to get new features so things will come and go and you'll never even notice because you never got it. sometimes I think they forgot it exits.
+yeah, that's the version I use everywhere. honestly I recommend it; for some reason I don't get any promoted tweets and it's the last to get new features so things will come and go and you'll never even notice because you never got it. sometimes I think they forgot it exists.
 
 
 ## building
