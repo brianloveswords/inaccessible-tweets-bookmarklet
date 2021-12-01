@@ -4,6 +4,9 @@
 make your twitter experience even worse by blurring tweets with that have images with no alt text (which is, unfortunately, most of them).
 
 
+oh also: now this doesn't let _you_ tweet if you attach an image without alt text. (well, it hides the tweet button. you can still hit ctrl/cmd+enter)
+
+
 ## usage
 
 1. copy this to your clipboard:
