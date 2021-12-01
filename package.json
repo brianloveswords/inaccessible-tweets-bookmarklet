@@ -1,6 +1,10 @@
 {
-  "dependencies": {
-    "esbuild": "^0.14.1",
-    "find-up": "^6.2.0"
-  }
+    "dependencies": {
+        "esbuild": "^0.14.1",
+        "find-up": "^6.2.0"
+    },
+    "scripts": {
+        "build": "node scripts/build.mjs",
+        "start": "npm run build"
+    }
 }

@@ -1,6 +1,7 @@
 # inaccessible-tweets-bookmarklet
 
-make your twitter experience even worse by blurring tweets with inaccessible images (no alt text). spoiler: it's most of them.
+make your twitter experience even worse by blurring tweets with inaccessible
+images (no alt text). spoiler: it's most of them.
 
 ## usage
 
