@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "esbuild": "^0.14.1",
+    "find-up": "^6.2.0"
+  }
+}
