@@ -35,6 +35,7 @@ so we can find `div[data-testid=tweetPhoto] > img[alt=Image]` then walk back up 
 
 twitter loads/unloads tweets into the timeline element when the viewport moves, so we gotta keep doing this on a regular basis. we can use a [`MutationObserver`](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver) for this and stick it on the `main` element, which contains the timeline.
 
+twitter is a single page app, so navigating between "notifications" and "home" and the like will work just fine. you'll only need to re-click the bookmarklet if you refresh.
 
 ## but this only works for twitter web
 
